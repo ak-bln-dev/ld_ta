@@ -1,13 +1,16 @@
 import logo from './logo.svg';
 import altLogo from './react-icons.svg';
 import './App.css';
+// import of the Launch Darkly react client side SDK into the application
 import  { withLDProvider, useFlags } from 'launchdarkly-react-client-sdk';
 
 function App() {
+  // definition of the variable to initiate the Feature Flag Functionality by introducing useFlags()
   const { imageSwitch } = useFlags()
   return (
     <div className="App">
       <header className="App-header">
+        // using a feature flag to control the shown image of the application
         { imageSwitch ? (<img src={altLogo} className="App-logo" alt="logo" />) : (
         <img src={logo} className="App-logo" alt="logo" />)
         }
@@ -28,7 +31,7 @@ function App() {
 }
 
 export default withLDProvider({
-  clientSideID: '6574590d0fa1c70fd60c2274',
+  clientSideID: '***',
   options: {
     bootstrap: 'localstorage'
   },
