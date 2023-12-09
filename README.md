@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 
 ### `Launch Darkly TA`
 
-This basic react app includes Launch Darkly Kill Switch funcionality.
+This basic react app includes Launch Darkly kill switch funcionality.
 Please have a look on the comments inside the app.js file.
 
 To setup the Feature Flag inside LD for a test, follow the following instructions:
