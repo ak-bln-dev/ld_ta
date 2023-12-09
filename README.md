@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App + Launch Darkly Feature Flag
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -19,6 +19,20 @@ You may also see any lint errors in the console.
 
 This basic react app includes Launch Darkly Kill Switch funcionality.
 Please have a look on the comments inside the app.js file.
+
+To setup the Feature Flag inside LD for a test, follow the following instructions:
+
+1. Deploy your individual ClientDideID into the file app.js in line 34
+2. Initiate a Feature Flag in LaunchDarkly like the following:
+
+Targetin Tab:
+![img1](https://picsum.photos/536/354))
+
+Variation Tab:
+![img2](https://picsum.photos/536/354)
+
+
+
 
 ### `npm test`
 
