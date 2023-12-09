@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
++
+
+Integrating LaunchDarkly into a simple react app. - Inspired by https://www.youtube.com/watch?v=CacXKjYURdo&t=408s
+
 ## Available Scripts
 
 In the project directory, you can run:
