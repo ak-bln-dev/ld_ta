@@ -9,8 +9,8 @@ function App() {
   const { imageSwitch } = useFlags()
   return (
     <div className="App">
+      // using a feature flag to control the shown image of the application
       <header className="App-header">
-        // using a feature flag to control the shown image of the application
         { imageSwitch ? (<img src={altLogo} className="App-logo" alt="logo" />) : (
         <img src={logo} className="App-logo" alt="logo" />)
         }
