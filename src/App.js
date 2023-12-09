@@ -32,6 +32,7 @@ function App() {
 }
 
 export default withLDProvider({
+  // please provide your clientSideID out of LaunchDarkly
   clientSideID: '***',
   options: {
     bootstrap: 'localstorage'
