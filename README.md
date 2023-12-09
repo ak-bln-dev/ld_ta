@@ -25,6 +25,8 @@ To setup the Feature Flag inside LD for a test, follow the following instruction
 1. Deploy your individual ClientDideID into the file app.js in line 34
 2. Initiate a Feature Flag in LaunchDarkly like the following:
 
+https://raw.githubusercontent.com/ak-bln-dev/ld_ta/main/blob/Demo-Experiment-Design.png
+
 Targeting Tab:
 ![img1](https://github.com/[ak_bln_dev]/[ld_ta]/blob/[main]/imageSwitch.png?raw=true)
 
@@ -35,7 +37,7 @@ Settings Tab:
 ![img3](https://github.com/[ak_bln_dev]/[ld_ta]/blob/[main]/imageSwitch-Settings.png?raw=true)
 
 3. Optional: Experiment with imageSwitch:
-![img4](https://github.com/[ak_bln_dev]/[ld_ta]/blob/[main]/Demo-Experiment-Design.png?raw=true)
+![img4](https://raw.githubusercontent.com/ak-bln-dev/ld_ta/main/blob/Demo-Experiment-Design.png))
 
 ### `npm test`
 
