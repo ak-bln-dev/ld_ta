@@ -28,16 +28,16 @@ To setup the Feature Flag inside LD for a test, follow the following instruction
 https://raw.githubusercontent.com/ak-bln-dev/ld_ta/main/blob/Demo-Experiment-Design.png
 
 Targeting Tab:
-![img1](https://github.com/[ak_bln_dev]/[ld_ta]/blob/[main]/imageSwitch.png?raw=true)
+![img1](https://raw.githubusercontent.com/ak-bln-dev/ld_ta/main/blob/imageSwitch.png?)
 
 Variation Tab:
-![img2](https://github.com/[ak_bln_dev]/[ld_ta]/blob/[main]/imageSwitch-Variations.png?raw=true)
+![img2](https://raw.githubusercontent.com/ak-bln-dev/ld_ta/main/blob/imageSwitch-Variations.png)
 
 Settings Tab:
-![img3](https://github.com/[ak_bln_dev]/[ld_ta]/blob/[main]/imageSwitch-Settings.png?raw=true)
+![img3](https://raw.githubusercontent.com/ak-bln-dev/ld_ta/main/blob/imageSwitch-Settings.png)
 
 3. Optional: Experiment with imageSwitch:
-![img4](https://raw.githubusercontent.com/ak-bln-dev/ld_ta/main/blob/Demo-Experiment-Design.png))
+![img4](https://raw.githubusercontent.com/ak-bln-dev/ld_ta/main/blob/Demo-Experiment-Design.png)
 
 ### `npm test`
 
